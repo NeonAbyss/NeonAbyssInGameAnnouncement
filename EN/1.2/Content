@@ -1,1 +1,26 @@
+Major changes:
 
+* Removed the Naughty-egg, all pets are back (except the Vibrant ball), also added some new pets
+* You can now ban items/pets/weapons in the gallery (Achievement will not be available after a certain number of bans)
+* Boss badge for every character (different difficulty will result in a different boss badge)
+* Auto-save for every level, you can now continue your runs
+* Monsters will no longer pop out of thin air without warning, a portal will appear before the monster
+* A new button for the character's passive ability instead of the interact key
+* The inventory screen can now show more than three rows of items
+
+Balance Tweaks:
+
+* Max Hearts and shield containers now reduced from 10 to 8
+* Removed the “Hit-recover" time for the player
+* Pets now no longer shoot on their own, they will only shoot if you shoot
+* Tweaked item drop rates
+* Tweaked level setup, the musical monster will not appear on early levels
+* Tweaked damage model, balanced weapon damages, you will no longer three-hit bosses, or dealing no damage to bosses
+* Tweaked biter monsters' behaviors
+* Tweaked rewards from rooms
+
+Bug fixes:
+
+* Fixed issue where player/monsters may glitch out of the room
+* Fixed Saya revive bug with melee mode
+* Fixed roulette machine
