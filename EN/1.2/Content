@@ -1,7 +1,15 @@
-<color=#00fffb>Welcome to the Experimental Branch! The current game content is not stable, and may undergo major changes. If you encounter serious bugs, please don't forget use the save function.
+<color=#00fffb>Welcome to the Experimental Branch! The current content is not stable, and may undergo major changes. If you encounter serious bugs, please don't forget the game has auto-save.
 
 If you have any suggestions, feedback or bug report, please join our Discord 'veewo'. Thanks for your understanding and support! </color>
 
+
+<color=#00fffb>1.2.0.35</color>
+
+* Added Up is Jump setting to keyboard/mouse
+* Broken slot machine door can now be blown open by explosives
+* Moldy hearts now has a chance to increase your heart containers
+
+<color=#00fffb>1.2.0.31</color>
 
 Major changes:
 
