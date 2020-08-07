@@ -9,7 +9,7 @@ Changes:
 * You can now reset your unlocks tree (for the cost of 20 Gems).
 * Rebalanced Unlock tree.
 * Weapon damage balance.
-* Monster bullets will always appear in front of your bullets.
+* Optimize enemy bullets, which are more visible.
 * Zen room: Tweaked difficulty, it now costs half a heart to play.
 * Coin Bomb change: You get triple the coins, but coins will explode after 3 seconds if you haven't picked it up.
 * Remove the pet NOD-8
