@@ -1,20 +1,25 @@
 <color=#00fffb>Welcome to the Experimental Branch! If you encounter serious bugs, please don't forget use <color=#ffe866>auto-save.</color>
-If you have any suggestions, feedback or bug report, please join our Discord.gg/veewo.</color>
+<color=#ec6fff>If you have any suggestions, feedback or bug report, please join our Discord.gg/veewo.</color>
 
-<color=#00fffb>1.2.1.6</color>
+<color=#00fffb>1.2.1.17</color>
 
-Changes:
+Changes：
+* New Boss: God of Gambling
 * New Challenge room: Put your skill to the test! You will get the reward based on how you perform, try not to get hit.
-* General performance improvements.
-* You can now reset your unlocks tree (for the cost of 20 Gems).
-* Rebalanced Unlock tree.
-* Weapon damage balance.
+* New unlock tree: Revamped for more flexibility in picking the path of your progress, cheaper to progress too! (This update will reset your unlock tree)
+* You can now reset your unlocks tree (will cost faith gems).
+* Add the EGG COUNTER
+* Add level numbers
+
+Balance Tweaks:
+* Weapon damage balance ( still under working)
 * Optimize enemy bullets, which are more visible.
 * Zen room: Tweaked difficulty, it now costs half a heart to play.
 * Coin Bomb change: You get triple the coins, but coins will explode after 3 seconds if you haven't picked it up.
 * Remove the pet NOD-8
+* R-6 picking up items that increase heart containers can increase shieldsa
 
-Bug fixes
+Bug fixes:
 * Fixed Big Daddy that sometimes does not prevent explosion damage.
 * Fixed Blink which should not be able to get past special doors.
 * Fixed wrong amount of Gems dropped by the final boss of each run.
