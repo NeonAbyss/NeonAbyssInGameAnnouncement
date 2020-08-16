@@ -2,7 +2,7 @@
 <color=#ec6fff>If you have any suggestions, feedback or bug report, please join our Discord.gg/veewo.</color>
 
 <color=#00fffb>1.2.1.18</color>
-<color=#ffe866>Notice: This update will reset your unlock tree and your key bindings.</color>
+<color=#ffe866>Notice: This update will reset your unlock tree and key bindings.</color>
 
 Changes：
 * New Boss: God of Gambling
@@ -13,12 +13,12 @@ Changes：
 * Add level numbers
 
 Balance Tweaks:
-* Weapon damage balance ( still under working)
+* Weapon damage balance ( still under working).
 * Optimize enemy bullets, which are more visible.
 * Zen room: Tweaked difficulty, it now costs your hearts to play.
 * Coin Bomb change: You get triple the coins, but coins will explode after 3 seconds if you haven't picked it up.
-* Remove the pet NOD-8
-* R-6 picking up items that increase heart containers can increase shieldsa
+* Remove the pet NOD-8.
+* R-6 picking up items that increase heart containers can increase shields.
 
 Bug fixes:
 * Fixed Big Daddy that sometimes does not prevent explosion damage.
