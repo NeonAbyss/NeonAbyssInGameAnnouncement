@@ -1,7 +1,15 @@
 <color=#00fffb>Welcome to the Experimental Branch! If you encounter serious bugs, please don't forget use <color=#ffe866>auto-save.</color>
 <color=#ec6fff>If you have any suggestions, feedback or bug report, please join our Discord.gg/veewo.</color>
 
-<color=#00fffb>1.2.1.18</color>
+<color=#00fffb>1.2.1.24 Exp-Branch</color>
+* Fixed issue of low HP amount of bosses on harder difficulties and late levels
+* Optimized flying control
+* Mines do not explode on contact
+* Weapon balance
+* Fixed freeze issue of the doll machine room
+* Fixed God of Pill from glitching out of the room
+
+<color=#00fffb>1.2.1.18 Exp-Branch</color>
 <color=#ffe866>Notice: This update will reset your unlock tree and key bindings.</color>
 
 Changes：
@@ -26,13 +34,13 @@ Bug fixes:
 * Fixed wrong amount of Gems dropped by the final boss of each run.
 * Fixed Egg count related items that count the eggs wrong.
 
-<color=#00fffb>1.2.0.35</color>
+<color=#00fffb>1.2.0.35 Exp-Branch</color>
 
 * Added Up is Jump setting to keyboard/mouse
 * Broken slot machine door can now be blown open by explosives
 * Moldy hearts now has a chance to increase your heart containers
 
-<color=#00fffb>1.2.0.31</color>
+<color=#00fffb>1.2.0.31 Exp-Branch</color>
 
 Major changes:
 
