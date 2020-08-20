@@ -1,6 +1,11 @@
 <color=#00fffb>Welcome to the Experimental Branch! If you encounter serious bugs, please don't forget use <color=#ffe866>auto-save.</color>
 <color=#ec6fff>If you have any suggestions, feedback or bug report, please join our Discord.gg/veewo.</color>
 
+<color=#00fffb>1.2.1.28 Exp-Branch</color>
+* Fix auto-save seed consistency
+* Reduce HP amount of bosses on harder difficulties and late levels
+
+
 <color=#00fffb>1.2.1.24 Exp-Branch</color>
 * Fixed issue of low HP amount of bosses on harder difficulties and late levels
 * Optimized flying control
