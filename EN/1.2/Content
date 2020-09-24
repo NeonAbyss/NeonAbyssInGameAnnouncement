@@ -1,8 +1,15 @@
 <color=#00fffb>Welcome to the Experimental Branch! If you encounter serious bugs, please don't forget use <color=#ffe866>auto-save.</color>
 <color=#ec6fff>If you have any suggestions, feedback or bug report, please join our Discord.gg/veewo.</color>
 
-There are only bug fixes these days as we are going to submit the current context for the next update patch.
-Then we will continue to add some exciting new stuff! Thanks!
+
+<color=#00fffb>Preview: the new content update is coming soon!</color>
+* Added a series of puzzle-solving rooms (you will be rewarded if you solve them)
+* Added 3 Sets of items, obtain enough items in a Set to activate Set powers!
+* New jump related items, you could win fights without ever firing a shot!
+* Tweaked explosion related items, synergies between the explosion items are now enhanced
+* Monsters are now more randomized
+* Enhanced the look and effects of many items
+* Reduced glare issue when bullets or lasers fills the screen
 
 <color=#00fffb>1.2.1.35 Exp-Branch</color>
 * More tweaks to HP amount of bosses on harder difficulties and late levels
