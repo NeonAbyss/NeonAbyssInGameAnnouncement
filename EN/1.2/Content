@@ -1,6 +1,15 @@
 <color=#00fffb>Welcome to the Experimental Branch! If you encounter serious bugs, please don't forget use <color=#ffe866>auto-save.</color>
 <color=#ec6fff>If you have any suggestions, feedback or bug report, please join our Discord.gg/veewo.</color>
 
+<color=#00fffb>1.3.1.5 Exp-Branch</color>
+
+* Fixed Lottey Ticket item
+* Fixed some unatural monster behavior
+* Fixed pets movement speed affected by difficulty
+* Fixed push-back on some weapons
+* Added more items into Sets, it is easier to obtain sets of items now
+* Fixed gallery room not showing pets
+* Bombs by Joker pets now synergies with explosion items
 
 <color=#00fffb>1.3.1.4 Exp-Branch</color>
 * Added a series of puzzle-solving rooms (you will be rewarded if you solve them)
