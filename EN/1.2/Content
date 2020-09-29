@@ -1,6 +1,15 @@
 <color=#00fffb>Welcome to the Experimental Branch! If you encounter serious bugs, please don't forget use <color=#ffe866>auto-save.</color>
 <color=#ec6fff>If you have any suggestions, feedback or bug report, please join our Discord.gg/veewo.</color>
 
+<color=#00fffb>1.3.1.6 Exp-Branch</color>
+
+* NEW: Basement level 2 The Lab is now open, you can now customize the monster encounters, but beware it could be filled with bugs (PUN intended)
+* NEW: Added a new powerful monster
+* NEW: There is a Zombie Worm easter egg for you to find :)
+* NEW: Added more monster-rooms to the mix
+* Fixed: Eectric Melee attack on machines no longer bugs out your gun
+* Fixed: Jumping monsters no longer stuck on walls
+
 <color=#00fffb>1.3.1.5 Exp-Branch</color>
 
 * Fixed Lottey Ticket item
