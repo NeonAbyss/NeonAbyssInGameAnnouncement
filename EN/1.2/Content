@@ -1,6 +1,14 @@
 <color=#00fffb>Welcome to the Experimental Branch! If you encounter serious bugs, please don't forget use <color=#ffe866>auto-save.</color>
 <color=#ec6fff>If you have any suggestions, feedback or bug report, please join our Discord.gg/veewo.</color>
 
+<color=#00fffb>1.3.1.10 Exp-Branch</color>
+
+* Fixed: Revival items no longer stops your progression
+* Fixed: Pause menu inaccessible bug fixed
+* NEW: Robot monsters now available in the Lab\
+* Optimized: The big worm monster
+* Balance: Tweaks to some unreasonable parameters
+
 <color=#00fffb>1.3.1.9 Exp-Branch</color>
 
 * NEW: Basement level 2 The Lab is now open, you can now customize the monster encounters, but beware it could be filled with bugs (PUN intended)
