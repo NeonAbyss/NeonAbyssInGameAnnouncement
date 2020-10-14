@@ -46,6 +46,7 @@
 * Bombs by Joker pets now synergies with explosion items
 
 <color=#00fffb>1.3.1.4 Exp-Branch</color>
+
 * Added a series of puzzle-solving rooms (you will be rewarded if you solve them)
 * Added 3 Sets of items, obtain enough items in a Set to activate Set powers!
 * New jump related items, you could win fights without ever firing a shot!
@@ -55,13 +56,16 @@
 * Reduced glare issue when bullets or lasers fills the screen
 
 <color=#00fffb>1.2.1.35 Exp-Branch</color>
+
 * More tweaks to HP amount of bosses on harder difficulties and late levels
 
 <color=#00fffb>1.2.1.28 Exp-Branch</color>
+
 * Fix auto-save seed consistency
 * Reduce HP amount of bosses on harder difficulties and late levels
 
 <color=#00fffb>1.2.1.24 Exp-Branch</color>
+
 * Fixed issue of low HP amount of bosses on harder difficulties and late levels
 * Optimized flying control
 * Mines do not explode on contact
@@ -103,7 +107,6 @@ Bug fixes:
 <color=#00fffb>1.2.0.31 Exp-Branch</color>
 
 Major changes:
-
 * Removed the Naughty-egg, all pets are back (except the Vibrant ball), also added some new pets
 * You can now ban items/pets/weapons in the gallery (Achievement will not be available after a certain number of bans)
 * Boss badge for every character (different difficulty will result in a different boss badge)
@@ -113,7 +116,6 @@ Major changes:
 * The inventory screen can now show more than three rows of items
 
 Balance Tweaks:
-
 * Max Hearts and shield containers now reduced from 10 to 8
 * Removed the “Hit-recover" time for the player
 * Pets now no longer shoot on their own, they will only shoot if you shoot
@@ -124,7 +126,6 @@ Balance Tweaks:
 * Tweaked rewards from rooms
 
 Bug fixes:
-
 * Fixed issue where player/monsters may glitch out of the room
 * Fixed Saya revive bug with melee mode
 * Fixed roulette machine
