@@ -2,6 +2,72 @@
 <color=#00fffb>If you encounter serious bugs, please don't forget use <color=#ffe866>Save&Load.</color>
 <color=#ec6fff>If you have any suggestions, feedback or bug report, please join our Discord.gg/veewo.</color>
 
+<color=#00fffb>1.2.2.26 Default-Branch</color>
+
+<color=#ffe866>Notice: This update will reset your unlock tree and key bindings, but will return your faith gems.</color>
+
+Major Changes: 
+
+* AUTO-SAVE for every level, you can now continue your runs
+* Item Gallery: In the basement of the bar, you can browse all items that you encountered, you can try them on or ban them. (Peter and Jack are back)
+* Item Bans: You can now ban items/pets/weapons in the gallery (Achievement will not be available after a certain number of bans)
+* New Boss: God of Gambling
+* New Challenge room: Put your skill to the test! You will get the reward based on how you perform, try not to get hit.
+* New batch of pets
+* Enemy bullets will now be displayed in front of player bullets.
+* Revamped for more flexibility in picking the path of your progress, cheaper to progress too!
+* Extra gem drop for fixed bosses, each time you beat the last boss, you will be awarded extra gems based on your difficulty levels.
+* You can now reset your unlocks tree (for the cost of 20 Gems).
+* Boss badge for every character (different difficulty will result in a different boss badge)
+* Tweaked damage model, balanced weapon damages
+* A new button for the character's passive ability instead of the interact key
+* Grenade projectile preview (not available in hard mode).
+* Add monster spawn indicators
+* You will now unlock more monsters by defeating managers, (previously, you have to unlock them on the unlock tree.)
+* Pets now no longer shoot on their own, they will only shoot if you shoot
+* Updated boss portraits 
+
+Other Changes:
+
+* General performance improvements.
+* Max Hearts and shield containers now reduced from 10 to 8
+* Removed the Hit-recover time for the player
+* Increase the duration of the item banner display.
+* Broken slot machine door can now be blown open by explosives
+* Add the egg counter.
+* Add level numbers.
+* Added more types of pickups(money bag, double keys and double bombs).
+* Tweaked level setup, the musical monster will not appear on early levels
+* Tweaked biter monsters' behaviors
+* The first level shop will now be on sale, also shop now displays item names.
+* Zen room: Tweaked difficulty, it now costs hearts to play.
+* Added more songs for piano
+* Fixed cursor lock for fullscreen
+* The inventory screen can now show more than three rows of items
+* Added aiming reticle for controllers
+* Optimized flying control
+* Mines do not explode on contact
+* Moldy hearts now has a chance to increase your heart containers
+* R-6 picking up items that increase heart containers can increase shields
+* Coin Bomb change: You get triple the coins, but coins will explode after 3 seconds if you haven't picked it up.
+
+Bug Fixes: 
+
+* Fixed the issue where player/monsters may glitch out of the room
+* Fixed Saya revive bug with melee mode
+* Fixed roulette machine
+* Fixed for upgrade tree can not interactable bug
+* Fixed issue where stacked explosions might propel player/monster/boss out of the room on performance hitch
+* Fixed tracking weapons not able to lock-on to Athena and Zeus
+* Fixed Saya's animation being stuck when in the air
+* Fixed being unable to show map and teleport bug with Heart of Fire
+* Fullscreen mode now locks cursor.
+* Fixed the issue where player/monsters may glitch out of the room.
+* Fixed Big Daddy that sometimes does not prevent explosion damage.
+* Fixed Blink which should not be able to get past special doors.
+* Fixed the wrong amount of Gems dropped by the final boss of each run.
+* Fixed Egg count related items that count the eggs wrong.
+
 <color=#00fffb>1.3.1.30 Exp-Branch</color>
 
 * Halloween surprise! (enter seed "20201031" to experience it first)
