@@ -4,6 +4,46 @@
 <color=#ec6fff>We plan to release 10 new skins with new perks as the new DLC, they will be available to test from time to time on the experimental branch, we love to hear your experience. 
 Every skin will only be tested for one week</color>
 
+<color=#00fffb>1.2.5.7 Exp-Branch</color>
+
+<color=#ec6fff>Merry Christmas! We've got a special holiday seed for you: 20131127, you can build a snowman in the game! </color>
+
+Major Changes: 
+
+* The Lab(Basement level 2)is now open, you can now customize the monster encounters! 
+* Added 3 Sets of items, obtain enough items in a Set to activate Set powers! 
+* Added new jump related items, you could win fights without ever firing a shot! 
+* Tweaked explosion related items, synergies between the explosion items are now enhanced. 
+* Added 6 new soundtrack in the game, let's rock! 
+
+New nodes in the unlocking true: 
+
+* WARRIOR STATUE - GUARDIAN: You will get a random blessing if you die 3 runs in a roll. 
+* Reroll Cube: There is a chance that a carryable cube will appear in the shop, which has many magical effects! Lift and throw it! 
+* Golden Secret: There is a chance that you may find golden creatures in battle rooms. 
+* New Pain room:it will drop an item if you get hurt on the 6th time in this room. 
+Added Random Character choice with a random item.   
+
+Other changes: 
+
+  * Added a series of puzzle-solving rooms (you will be rewarded if you solve them) 
+* Remake Ming's skill: he can now preview the result of the next egg hatch 
+* Pets will now get stronger the more pets you have 
+* Added a new big worm monster 
+* Added a Special Chest Shop 
+* Added more battle rooms 
+* Added item effect activation indicators 
+* Added a new type of Challenge room, it will reward you even if you get hit. 
+* Abyssal difficulty can be accessed any time once unlocked 
+* Update to monster bullet appearance 
+* Reduced glare issue when bullets or lasers fills the screen 
+* Added item effect indicator 
+* Tweaks to Shooting game room, it now drops items other than weapons 
+* Tweaks to Brick game room, drops more varied items 
+* Added a new piano song 
+* Fire Cracker item now only works in combat 
+* Thunder and Summer buffed，radius increases with jump times 
+
 <color=#00fffb>1.3.2.34 Exp-Branch</color> 
 *Player can not pick up weapons bug fixed.
 *DLC Character Saya change: Optimized the feel of the battle, will get a short invincibility when attacking the enemy.
